@@ -3,11 +3,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.maryanto.dimas.example</groupId>
-    <artifactId>jaxrs-jpa-oracle-example</artifactId>
+    <artifactId>jaxrs-postgresql-example</artifactId>
     <packaging>war</packaging>
 
     <version>1.0-snapshot</version>
-    <name>jaxrs-jpa-oracle-example Maven Webapp</name>
+    <name>JAX RS with JPA postgresql database management system</name>
     <url>http://maven.apache.org</url>
 
     <repositories>
@@ -131,6 +131,6 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>jaxrs-example</finalName>
+        <finalName>jaxrs-postgresql-example</finalName>
     </build>
 </project>
