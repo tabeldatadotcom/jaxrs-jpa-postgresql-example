@@ -27,7 +27,6 @@
             <url>https://maven.java.net/content/repositories/snapshots/</url>
             <layout>default</layout>
         </repository>
-
     </repositories>
 
 
